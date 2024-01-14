@@ -29,5 +29,5 @@ Após instalar o SDK do Flutter, configure o seu editor de texto favorito e siga
 </p>
 
 <p align="center">
-    <img src="/docs/usage.gif" height="512">
+    <img src="/docs/usage.gif" width="758">
 </p>
