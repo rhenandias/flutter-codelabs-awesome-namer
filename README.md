@@ -21,13 +21,13 @@ Após instalar o SDK do Flutter, configure o seu editor de texto favorito e siga
 ## Aplicação
 
 <p align="center">
-    <img src="/docs/home.png" height="512">
+    <img src="/docs/home.png">
 </p>
 
 <p align="center">
-    <img src="/docs/favorites.png" height="512">
+    <img src="/docs/favorites.png">
 </p>
 
 <p align="center">
-    <img src="/docs/usage.gif" height="512">
+    <img src="/docs/usage.gif">
 </p>
