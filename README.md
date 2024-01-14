@@ -4,7 +4,7 @@ Este projeto foi desenvolvido para aprender o básico da tecnologia Flutter para
 
 ## Google Codelabs
 
-O projeto foi desenvolvido seguindo o tutorial disponível no Google Codelabs na documentação do Flutter
+O projeto foi desenvolvido seguindo o tutorial disponível no Google Codelabs na documentação do Flutter:
 
 - [Lab: Crie a sua primeira aplicação Flutter](https://docs.flutter.dev/get-started/codelab)
 
