@@ -10,5 +10,14 @@ O projeto foi desenvolvido seguindo o tutorial disponível no Google Codelabs na
 
 ##
 
-![Tela inicial da aplicação](/homescreen.png)
-![Tela de favoritos da aplicação](/favorites.png)
+<p align="center">
+    <img src="/docs/homescreen.png" height="512">
+</p>
+
+<p align="center">
+    <img src="/docs/favorites.png" height="512">
+</p>
+
+<p align="center">
+    <img src="/docs/usage.gif" height="512">
+</p>
