@@ -21,6 +21,10 @@ Após instalar o SDK do Flutter, configure o seu editor de texto favorito e siga
 ## Aplicação
 
 <p align="center">
+    <img src="/docs/homescreen.png" height="512">
+</p>
+
+<p align="center">
     <img src="/docs/favorites.png" height="512">
 </p>
 
